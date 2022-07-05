@@ -1,0 +1,43 @@
+buildscript {
+    ext.kotlin_version = '1.6.10'
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.1.2'    
+        //classpath 'io.fabric.tools:gradle:7.0.0'
+        classpath 'com.jakewharton:butterknife-gradle-plugin:9.0.0-rc2'
+        classpath 'com.google.gms:google-services:4.3.3'
+        classpath 'com.android.tools.build.jetifier:jetifier-processor:1.0.0-beta02'
+     
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        
+    }
+}
+ gradle.projectsEvaluated {
+       tasks.withType(JavaCompile){
+       options.compilerArgs << "-Xlint:deprecated"
+     }
+     }
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

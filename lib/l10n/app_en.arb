@@ -1,0 +1,1730 @@
+{
+  "defineSystemDomain": "Define System Domain",
+  "@defineSystemDomain": {
+    "description": "Define System Domain"
+  },
+  "domainName": "Domain Name",
+  "@domainName": {
+    "description": "Domain Name"
+  },
+  "loginWithUserName": "Login With Username",
+  "@loginWithUserName": {
+    "description": "Login With Username"
+  },
+  "loginWithUserNameOrBadge": "Login With Username or Badge",
+  "@loginWithUserNameOrBadge": {
+    "description": "Login With Username or Badge"
+  },
+  "userName": "User Name",
+  "@userName": {
+    "description": "User Name"
+  },
+  "enterPassword": "Enter Password",
+  "@enterPassword": {
+    "description": "Enter Password"
+  },
+  "enterSimCardNumber": "Enter Sim Card Number",
+  "@enterSimCardNumber": {
+    "description": "Enter Sim Card Number"
+  },
+  "proceed": "Proceed",
+  "@proceed": {
+    "description": "Proceed"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login"
+  },
+  "loginByYourFaceScan": "Login with Face Scan",
+  "@loginByYourFaceScan": {
+    "description": "Login with Face Scan"
+  },
+  "shiftProfile": "Shift Profile",
+  "@shiftProfile": {
+    "description": "Shift Profile"
+  },
+  "zone": "Zone",
+  "@zone": {
+    "description": "Zone"
+  },
+  "activeGroup": "Active Group",
+  "@activeGroup": {
+    "description": "Active Group"
+  },
+  "position": "Position",
+  "@position": {
+    "description": "Position"
+  },
+  "shiftDuration": "Shift Duration",
+  "@shiftDuration": {
+    "description": "Shift Duration"
+  },
+  "shiftSummary": "Shift Summary",
+  "@shiftSummary": {
+    "description": "Shift Summary"
+  },
+  "finish": "Finish",
+  "@finish": {
+    "description": "Finish"
+  },
+  "loginByYourFaceScan": "Login With Face Scan",
+  "@loginByYourFaceScan": {
+    "description": "Login With Face Scan"
+  },
+  "processingYourFace": "Processing Your Face",
+  "@processingYourFace": {
+    "description": "Processing Your Face"
+  },
+  "loginWithFace": "Login With Face Scan",
+  "@loginWithFace": {
+    "description": "Login With Face Scan"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm"
+  },
+  "shiftDurationExpired": "Shift Duration Expired",
+  "@shiftDurationExpired": {
+    "description": "Shift Duration Expired"
+  },
+  "proceedtoTheLoginPage": "Proceed to the Login Page",
+  "@proceedtoTheLoginPage": {
+    "description": "Proceed to the Login Page"
+  },
+  "supervisor": "Supervisor",
+  "@supervisor": {
+    "description": "Supervisor"
+  },
+  "supervisorName": "Supervisor",
+  "@supervisorName": {
+    "description": "Supervisor"
+  },
+  "startNow": "Start Now",
+  "@startNow": {
+    "description": "Start Now"
+  },
+  "userProfile": "User Profile",
+  "@userProfile": {
+    "description": "User Profile"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings"
+  },
+  "messageHistory": "Message History",
+  "@messageHistory": {
+    "description": "Message History"
+  },
+  "deviceOutputs": "Device Outputs",
+  "@deviceOutputs": {
+    "description": "Device Outputs"
+  },
+  "endShift": "End Shift",
+  "@endShift": {
+    "description": "End Shift"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout"
+  },
+  "group": "Group",
+  "@group": {
+    "description": "Group"
+  },
+  "groupMembers": "Group Members",
+  "@groupMembers": {
+    "description": "Group Members"
+  },
+  "positionMembers": "Position Members",
+  "@positionMembers": {
+    "description": "Position Members"
+  },
+  "noActiveGroup": "No Active Group",
+  "@noActiveGroup": {
+    "description": "No Active Group"
+  },
+  "noActiveZone": "No Active Zone",
+  "@noActiveZone": {
+    "description": "No Active Zone"
+  },
+  "messageFrom": "Message From",
+  "@messageFrom": {
+    "description": "Message From"
+  },
+  "searchMessages": "Search Messages...",
+  "@searchMessages": {
+    "description": "Search Messages..."
+  },
+  "noAudioMessages": "No Audio Messages",
+  "@noAudioMessages": {
+    "description": "No Audio Messages"
+  },
+  "all": "All",
+  "@all": {
+    "description": "All"
+  },
+  "missed": "Missed",
+  "@missed": {
+    "description": "Missed"
+  },
+  "shiftDuration": "Shift Duration",
+  "@shiftDuration": {
+    "description": "Shift Duration"
+  },
+  "endsIn": "Ends In",
+  "@endsIn": {
+    "description": "Ends In"
+  },
+  "online": "Online",
+  "@online": {
+    "description": "Online"
+  },
+  "offline": "Offline",
+  "@offline": {
+    "description": "Offline"
+  },
+  "noConnectedUser": "No Connected User",
+  "@noConnectedUser": {
+    "description": "No Connected User"
+  },
+  "noConnection": "No Connection",
+  "@noConnection": {
+    "description": "No Connection"
+  },
+  "noVideo": "No Video",
+  "@noVideo": {
+    "description": "No Video"
+  },
+  "noVisitsYet": "No visits yet",
+  "@noVisitsYet": {
+    "description": "No visits yet"
+  },
+  "startCallWith": "Start Video Call With",
+  "@startCallWith": {
+    "description": "Start Video Call With"
+  },
+  "user": "User",
+  "@user": {
+    "description": "User"
+  },
+  "users": "Users",
+  "@users": {
+    "description": "Users"
+  },
+  "groups": "Groups",
+  "@groups": {
+    "description": "Groups"
+  },
+  "positions": "Positions",
+  "@positions": {
+    "description": "Positions"
+  },
+  "hangup": "Hang Up",
+  "@hangup": {
+    "description": "Hang Up"
+  },
+  "pickup": "Pickup",
+  "@pickup": {
+    "description": "Pickup"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK"
+  },
+  "noMatched": "No Matched",
+  "@noMatched": {
+    "description": "No Matched"
+  },
+  "shiftSummary": "Shift Summary",
+  "@shiftSummary": {
+    "description": "Shift Summary"
+  },
+  "startDateTime": "Start Date/Time",
+  "@startDateTime": {
+    "description": "Start Date/Time"
+  },
+  "endDateTime": "End Date/Time",
+  "@endDateTime": {
+    "description": "End Date/Time"
+  },
+  "plannedDuration": "Planned Duration",
+  "@plannedDuration": {
+    "description": "Planned Duration"
+  },
+  "actualDuration": "Actual Duration",
+  "@actualDuration": {
+    "description": "Actual Duration"
+  },
+  "shiftProfileSelectPosition": "Select Position",
+  "@shiftProfileSelectPosition": {
+    "description": "Select Position"
+  },
+  "selectedZone": "Zone",
+  "@selectedZone": {
+    "description": "Zone"
+  },
+  "selectedGroup": "Group",
+  "@selectedGroup": {
+    "description": "Group"
+  },
+  "selectedPosition": "Position",
+  "@selectedPosition": {
+    "description": "Position"
+  },
+  "startShiftNow": "Start Shift Now",
+  "@startShiftNow": {
+    "description": "Start Shift Now"
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Start Shift Title"
+  },
+  "continueAsUser": "Continue as User",
+  "@continueAsUser": {
+    "description": "Continue as User"
+  },
+  "continueAsSupervisor": "Continue as Supervisor",
+  "@continueAsSupervisor": {
+    "description": "Continue as Supervisor"
+  },
+  "selectDifferentPosition": "Select Different Position",
+  "@selectDifferentPosition": {
+    "description": "Select Different Position"
+  },
+  "selectedPositionIsActive": "Selected Position is Already Active By",
+  "@selectedPositionIsActive": {
+    "description": "Selected Position is Already Active By"
+  },
+  "distanceFromPosition": "Distance From Position",
+  "@distanceFromPosition": {
+    "description": "Distance From Position"
+  },
+  "noSOSevents": "No SOS Events",
+  "@noSOSevents": {
+    "description": "No SOS Events"
+  },
+  "noEvents": "No Events",
+  "@noEvents": {
+    "description": "No Events"
+  },
+  "commentIsMandatory": "A Comment is Mandatory",
+  "@commentIsMandatory": {
+    "description": "A Comment is Mandatory"
+  },
+  "resolve": "Resolve",
+  "@resolve": {
+    "description": "Resolve"
+  },
+  "reportedSOSat": "Reported SOS At",
+  "@reportedSOSat": {
+    "description": "Reported SOS At"
+  },
+  "noPosition": "No Position",
+  "@noPosition": {
+    "description": "No Position"
+  },
+  "notMatched": "Not Matched",
+  "@notMatched": {
+    "description": "Not Matched"
+  },
+  "speakWithTheGroup": "Speak With the Group",
+  "@speakWithTheGroup": {
+    "description": "Speak With the Group"
+  },
+  "speakWithThePositionCrew": "Speak With the Crew Position",
+  "@speakWithThePositionCrew": {
+    "description": "speak with the Crew Position"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home"
+  },
+  "map": "Map",
+  "@map": {
+    "description": "Map"
+  },
+  "video": "Video",
+  "@video": {
+    "description": "Video"
+  },
+  "audio": "Audio",
+  "@audio": {
+    "description": "Audio"
+  },
+  "alerts": "Alerts",
+  "@alerts": {
+    "description": "Alerts"
+  },
+  "chat": "Chat",
+  "@chat": {
+    "description": "Chat"
+  },
+  "system": "System",
+  "@system": {
+    "description": "System"
+  },
+  "device": "Device",
+  "@device": {
+    "description": "Device"
+  },
+  "debug": "Debug",
+  "@debug": {
+    "description": "Debug"
+  },
+  "deviceDensity": "Device Density",
+  "@deviceDensity": {
+    "description": "Device Density"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone Number"
+  },
+  "deviceIME": "Device IME",
+  "@deviceIME": {
+    "description": "Device IME"
+  },
+  "simCard": "SIM Card",
+  "@simCard": {
+    "description": "SIM Card"
+  },
+  "operatorName": "Operator Name",
+  "@operatorName": {
+    "description": "Operator Name"
+  },
+  "batteryTechnology": "Battery Technology",
+  "@batteryTechnology": {
+    "description": "Battery Technology"
+  },
+  "batteryVoltage": "Battery Voltage",
+  "@batteryVoltage": {
+    "description": "Battery Voltage"
+  },
+  "deviceSettings": "Device Settings",
+  "@deviceSettings": {
+    "description": "Device Settings"
+  },
+  "backendVersion": "Backend Version",
+  "@backendVersion": {
+    "description": "Backend Version"
+  },
+  "backendAPIAddress": "Backend API Address",
+  "@backendAPIAddress": {
+    "description": "Backend API Address"
+  },
+  "backendWebsocketAddress": "Backend Websocket Address",
+  "@backendWebsocketAddress": {
+    "description": "Backend Websocket Address"
+  },
+  "backendWebsocketPort": "Backend Websocket Port",
+  "@backendWebsocketPort": {
+    "description": "Backend Websocket Port"
+  },
+  "mediaSoapAddress": "Media Soap Address",
+  "@mediaSoapAddress": {
+    "description": "Media Soap Address"
+  },
+  "videoServerAddress": "Video Server Address",
+  "@videoServerAddress": {
+    "description": "Video Server Address"
+  },
+  "videoServerPort": "Video Server Port",
+  "@videoServerPort": {
+    "description": "Video Server Port"
+  },
+  "chatServerAddress": "Chat Server Address",
+  "@chatServerAddress": {
+    "description": "Video Server Address"
+  },
+  "chatServerPort": "Video Server Port",
+  "@chatServerPort": {
+    "description": "Chat Server Port"
+  },
+  "systemSettings": "System Settings",
+  "@systemSettings": {
+    "description": "System Settings"
+  },
+  "debugSystem": "DEBUG SYSTEM",
+  "@debugSystem": {
+    "description": "DEBUG SYSTEM"
+  },
+  "enableRemoteDebugging": "Enable Remote Debugging Logs",
+  "@enableRemoteDebugging": {
+    "description": "Enable Remote Debugging Logs"
+  },
+  "outofPoistionRange": "You Are Out of Your Position Range!",
+  "@outofPoistionRange": {
+    "description": "You Are Out of Your Position Range!"
+  },
+  "eventMessageDialogLocation": "this event has no location.",
+  "@eventMessageDialogLocation": {
+    "description": "this event has no location."
+  },
+  "outofPoistionRangeTitle": "Out of Range",
+  "@outofPoistionRangeTitle": {
+    "description": "Out of Range"
+  },
+  "alertnessFailPoistionRangeTitle": "Alertness Failed",
+  "@alertnessFailPoistionRangeTitle": {
+    "description": "Alertness Failed"
+  },
+  "soshighLevelOfAlertnessRequired": "SOS - High Level of Alertness Required",
+  "@soshighLevelOfAlertnessRequired": {
+    "description": "SOS - High Level of Alertness Required"
+  },
+  "soswarningState": "SOS Warning State",
+  "@soswarningState": {
+    "description": "SOS Warning State"
+  },
+  "alertCheck": "Alert Check",
+  "@alertCheck": {
+    "description": "Alert Check"
+  },
+  "takePhoto": "Take a Photo",
+  "@takePhoto": {
+    "description": "Take a Photo"
+  },
+  "shootVideo": "Shoot a Video",
+  "@shootVideo": {
+    "description": "Shoot a Video"
+  },
+  "chooseFromGallery": "Choose from the Gallery",
+  "@chooseFromGallery": {
+    "description": "Choose from the Gallery"
+  },
+  "choosePdfDocument": "Choose PDF",
+  "@choosePdfDocument": {
+    "description": "Choose PDF"
+  },
+  "compressing": "Compressing",
+  "@compressing": {
+    "description": "Compressing"
+  },
+  "videoPlayer": "Video Player",
+  "@videoPlayer": {
+    "description": "Video Player"
+  },
+  "viewImage": "Image Viewer",
+  "@viewImage": {
+    "description": "Image Viewer"
+  },
+  "pdfViewer": "PDF Viewer",
+  "@pdfViewer": {
+    "description": "PDF Viewer"
+  },
+  "sosAlertWillBeSentIn": "SOS alert will be sent in",
+  "@sosAlertWillBeSentIn": {
+    "description": "SOS alert will be sent in"
+  },
+  "sosAlertHasBeenSentTo": "SOS alert has been sent to",
+  "@sosAlertHasBeenSentTo": {
+    "description": "SOS alert has been sent to"
+  },
+  "reportedSOSat": "Reported SOS at",
+  "@reportedSOSat": {
+    "description": "Reported SOS at"
+  },
+  "sessionTimeout": "Session Timeout",
+  "@sessionTimeout": {
+    "description": "Session Timeout"
+  },
+  "yourSessionIsClosedByTheServer": "Your Session Has Been Closed by the Server",
+  "@yourSessionIsClosedByTheServer": {
+    "description": "Your Session Has Been Closed by the Server"
+  },
+  "yourSessionIsClosedByTheServerErr": "Your Session Has Been Closed by the Server Due to Connection Error",
+  "@yourSessionIsClosedByTheServerErr": {
+    "description": "Your Session Has Been Closed by the Server Due to Connection Error"
+  },
+  "failedEndingShiftAssignment": "Failed Ending Shift Assignment",
+  "@failedEndingShiftAssignment": {
+    "description": "Failed Ending Shift Assignment"
+  },
+  "userIsNotMemberOfSystemGroups": "User is Not a Member of System Groups",
+  "@userIsNotMemberOfSystemGroups": {
+    "description": "User is Not a Member of System Groups"
+  },
+  "noAvailablePositionsToStartShiftAssignment": "No Available Positions to Start Shift Assignment",
+  "@noAvailablePositionsToStartShiftAssignment": {
+    "description": "No Available Positions to Start Shift Assignment"
+  },
+  "noInternetConnection": "No Internet Connection",
+  "@noInternetConnection": {
+    "description": "No Internet Connection"
+  },
+  "cantFindRelatedGroups": "Can't find related groups",
+  "@cantFindRelatedGroups": {
+    "description": "Can't find related groups"
+  },
+  "currentLocationIsntAvailable": "Current location isn't available",
+  "@currentLocationIsntAvailable": {
+    "description": "Current location isn't available"
+  },
+  "noConnectivity": "System Connectivity Issue Has Been Detected",
+  "@noConnectivity": {
+    "description": "System Connectivity Issue Has Been Detected"
+  },
+  "showOnMap": "Show On Map",
+  "@showOnMap": {
+    "description": "Show On Map"
+  },
+  "isOutOfRange": "Is Out Of Range",
+  "@isOutOfRange": {
+    "description": "Is Out Of Range"
+  },
+  "areOutOfRange": "Are Out Of Range",
+  "@areOutOfRange": {
+    "description": "Are Out Of Range"
+  },
+  "isAlertnessFail": "Is Alertness fail",
+  "@isAlertnessFail": {
+    "description": "Is Alertness fail"
+  },
+  "areAlertnessFail": "Are Alertness fail",
+  "@areAlertnessFail": {
+    "description": "Are Alertness fail"
+  },
+  "positionAssignment": "Position Assignment",
+  "@positionAssignment": {
+    "description": "Position Assignment"
+  },
+  "userIsNotAssociatedToGroups": "User Is Not Associated to Groups or Available Position",
+  "@userIsNotAssociatedToGroups": {
+    "description": "User Is Not Associated to Groups or Available Position"
+  },
+  "areYouSureYouWantToDelete": "Are you sure you want to delete all attached media?",
+  "@areYouSureYouWantToDelete": {
+    "description": "Are you sure you want to delete all attached media?"
+  },
+  "alertnessCheck": "Alertness Check",
+  "@alertnessCheck": {
+    "description": "Alertness Check"
+  },
+  "passCheck": "Pass the Check",
+  "@passCheck": {
+    "description": "Pass the Check"
+  },
+  "snoozeCheckDialogMessage": "Pass the Alertness Check, or Postpone it for {seconds} Seconds",
+  "@snoozeCheckDialogMessage": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
+  "snooze": "Snooze",
+  "@snooze": {
+    "description": "Snooze"
+  },
+  "systemInfo": "System Info",
+  "@systemInfo": {
+    "description": "System Info"
+  },
+  "systemError": "System Error",
+  "@systemError": {
+    "description": "System Error"
+  },
+  "active": "Active",
+  "@active": {
+    "description": "Active"
+  },
+  "notActive": "Not Active",
+  "@notActive": {
+    "description": "Not Active"
+  },
+  "outOfRange": "Out of Range",
+  "@outOfRange": {
+    "description": "Out of Range"
+  },
+  "alertnessFailed": "Alertness Failed",
+  "@alertnessFailed": {
+    "description": "Alertness Failed"
+  },
+  "operators": "Operators",
+  "@operators": {
+    "description": "Operators"
+  },
+  "noActiveUsers": "No Active Users",
+  "@noActiveUsers": {
+    "description": "No Active Users"
+  },
+  "noActivePositions": "No Active Positions",
+  "@noActivePositions": {
+    "description": "No Active Positions"
+  },
+  "noInactiveUsers": "No Inactive Users",
+  "@noInactiveUsers": {
+    "description": "No Inactive Users"
+  },
+  "noInactivePositions": "No Inactive Positions",
+  "@noInactivePositions": {
+    "description": "No Inactive Positions"
+  },
+  "nobodyOutOfRange": "No Positions Out of Range",
+  "@nobodyOutOfRange": {
+    "description": "No Positions Out of Range"
+  },
+  "noInattentivePositions": "No Inattentive Positions",
+  "@noInattentivePositions": {
+    "description": "No Inattentive Positions"
+  },
+  "openGroupMembers": "Open",
+  "@openGroupMembers": {
+    "description": "Open"
+  },
+  "positionIsNotAvailable": "Position is Not Available",
+  "@positionIsNotAvailable": {
+    "description": "Position is Not Available"
+  },
+  "videoCallIsConnected": "Video Call is Connected",
+  "@videoCallIsConnected": {
+    "description": "Video Call is Connected"
+  },
+  "videoCallIsIncoming": "Incoming Video Call",
+  "@videoCallIsIncoming": {
+    "description": "Incoming Video Call"
+  },
+  "videoCallIsOutgoing": "Outgoing Video Call",
+  "@videoCallIsOutgoing": {
+    "description": "Outgoing Video Call"
+  },
+  "videoServiceIsNotAvailable": "Video Service is Not Available",
+  "@videoServiceIsNotAvailable": {
+    "description": "Video Service is Not Available"
+  },
+  "version": "Version",
+  "@version": {
+    "description": "Version"
+  },
+  "updates": "Updates",
+  "@updates": {
+    "description": "Updates"
+  },
+  "currentVersion": "Current Version",
+  "@currentVersion": {
+    "description": "Current Version"
+  },
+  "availableVersion": "Available Version",
+  "@availableVersion": {
+    "description": "Available Version"
+  },
+  "downloadNewVersion": "Download New Version",
+  "@downloadNewVersion": {
+    "description": "Download New Version"
+  },
+  "uninstallVersion": "Uninstall Current Version",
+  "@uninstallVersion": {
+    "description": "Uninstall Current Version"
+  },
+  "installVersion": "Install Current Version",
+  "@installVersion": {
+    "description": "Install Current Version"
+  },
+  "openAPKFolder": "Open APK Folder",
+  "@openAPKFolder": {
+    "description": "Open APK Folder"
+  },
+  "newBazzAPKIsAvail": "New BAZZ APK download completed, new version is available in the download folder",
+  "@newBazzAPKIsAvail": {
+    "description": "New BAZZ APK download completed, new version is available in the download folder"
+  },
+  "newUpdatesAvailable": "New Updates Available",
+  "@newUpdatesAvailable": {
+    "description": "New Updates Available"
+  },
+  "changeYourPassword": "Change Your Password",
+  "@changeYourPassword": {
+    "description": "Change Your Password"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New Password"
+  },
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "description": "Confirm New Password"
+  },
+  "chooseImagesWith": "Choose Images With",
+  "@chooseImagesWith": {
+    "description": "Choose Images With"
+  },
+  "orange": "Orange",
+  "@orange": {
+    "description": "Orange"
+  },
+  "send": "Send",
+  "@send": {
+    "description": "Send"
+  },
+  "detectFace": "Detect Face",
+  "@detectFace": {
+    "description": "Detect Face"
+  },
+  "quizScanFace": "Before Sending QUIZ Scan Your Face",
+  "@quizScanFace": {
+    "description": "Before Sending QUIZ Scan Your Face"
+  },
+  "general": "General",
+  "@general": {
+    "description": "General"
+  },
+  "restMobileAppTitle": "Rest Mobile App",
+  "@restMobileAppTitle": {
+    "description": "Rest Mobile App"
+  },
+  "resetMobileAppMsg": "Rest Mobile app will erase all app local data",
+  "@resetMobileAppMsg": {
+    "description": "Rest Mobile app will erase all app local data"
+  },
+  "changeGroup": "Change Group",
+  "@changeGroup": {
+    "description": "Change Group"
+  },
+  "broadcastingIn": "Broadcasting In",
+  "@broadcastingIn": {
+    "description": "Broadcasting In"
+  },
+  "newAudioMessage": "New Audio Message",
+  "@newAudioMessage": {
+    "description": "New Audio Message"
+  },
+  "showSystemLog": "Show System Log",
+  "@showSystemLog": {
+    "description": "Show System Log"
+  },
+  "enableLogging": "Enable System Logs",
+  "@enableLogging": {
+    "description": "Enable System Logs"
+  },
+  "record": "record",
+  "@record": {
+    "description": "Record"
+  },
+  "recording": "Recording",
+  "@recording": {
+    "description": "Recording"
+  },
+  "broadcast": "Broadcast",
+  "@broadcast": {
+    "description": "Broadcast"
+  },
+  "broadcasting": "Broadcasting",
+  "@broadcasting": {
+    "description": "Broadcasting"
+  },
+  "resetMobileApp": "Reset APP Settings",
+  "@resetMobileApp": {
+    "description": "Reset APP Settings"
+  },
+  "technicianCodeTitle": "Technician Code",
+  "@technicianCodeTitle": {
+    "description": "Technician Code"
+  },
+  "enterTechnicianCode": "Enter Technician Code",
+  "@enterTechnicianCode": {
+    "description": "Enter Technician Code"
+  },
+  "technicianCodeNotValid": "Technician Code is not Valid",
+  "@technicianCodeNotValid": {
+    "description": "Technician Code is not Valid"
+  },
+  "unpinDevice": "Unpin Device",
+  "@unpinDevice": {
+    "description": "Unpin Device"
+  },
+  "pinDevice": "Pin Device",
+  "@pinDevice": {
+    "description": "Pin Device"
+  },
+  "unpinDeviceTitle": "Unpin Device",
+  "@unpinDeviceTitle": {
+    "description": "Unpin Device"
+  },
+  "unpinDeviceMsg": "Do you want to continue to unpin the device",
+  "@unpinDeviceMsg": {
+    "description": "Do you want to continue to unpin the device"
+  },
+  "notInShiftPositionRangeTitle": "Position Not in Range",
+  "@notInShiftPositionRangeTitle": {
+    "description": "Position not in Range"
+  },
+  "notInShiftPositionRangeMag": "You can not start a shift outside position range",
+  "@notInShiftPositionRangeMag": {
+    "description": "You can not start a shift outside position range"
+  },
+  "changeLanguage": "Change Language:",
+  "@changeLanguage": {
+    "description": "Change Language:"
+  },
+  "accelerometerBaseVelocity": "Accelerometer Base Velocity",
+  "@accelerometerBaseVelocity": {
+    "description": "Accelerometer Base Velocity"
+  },
+  "accelerometerVelocityDiff": "Accelerometer Velocity Diff",
+  "@accelerometerVelocityDiff": {
+    "description": "Accelerometer Velocity Diff"
+  },
+  "enableAccelerometer": "Enable Accelerometer",
+  "@enableAccelerometer": {
+    "description": "Enable Accelerometer"
+  },
+  "enableKalmanFilter": "Enable Kalman Filter",
+  "@enableKalmanFilter": {
+    "description": "Enable Kalman Filter"
+  },
+  "info": "Info",
+  "@info": {
+    "description": "Info"
+  },
+  "defaultReset": "Default Reset",
+  "@defaultReset": {
+    "description": "Default Reset"
+  },
+  "continueAsUser": "Continue",
+  "@continueAsUser": {
+    "description": "Continue"
+  },
+  "goBackToLogin": "Back to Login",
+  "@goBackToLogin": {
+    "description": "Back to Login"
+  },
+  "fetchingGroups": "Fetching Groups...",
+  "@fetchingGroups": {
+    "description": "Fetching groups..."
+  },
+  "initializingServices": "Initializing Services...",
+  "@initializingServices": {
+    "description": "Initializing Services..."
+  },
+  "loading": "Loading",
+  "@loading": {
+    "description": "Loading"
+  },
+  "failedLoadingHomeView": "System failure while loading main home view",
+  "@failedLoadingHomeView": {
+    "description": "System failure while loading main home view"
+  },
+  "compressingMedia": "Compressing Media",
+  "@compressingMedia": {
+    "description": "compressing media"
+  },
+  "uploadProgress": "Upload Progress",
+  "@uploadProgress": {
+    "description": "upload progress"
+  },
+  "uploadingMedia": "Uploading Media",
+  "@uploadingMedia": {
+    "description": "uploading media"
+  },
+  "networkSettings": "Network Settings",
+  "@networkSettings": {
+    "description": "Network Settings"
+  },
+  "userAlreadyLoggedInTitle": "Already Logged In",
+  "@userAlreadyLoggedInTitle": {
+    "description": "Already Logged In"
+  },
+  "userAlreadyLoggedInMsg": "User already logged into the system with a different device, would you like to proceed?",
+  "@userAlreadyLoggedInMsg": {
+    "description": "User already logged in to the system with a different device, would you like to proceed?"
+  },
+  "startKeyCodeTracking": "Start Key Code Tracking",
+  "@startKeyCodeTracking": {
+    "description": "Start Key Code Tracking"
+  },
+  "stopKeyCodeTracking": "Stop Key Code Tracking",
+  "@stopKeyCodeTracking": {
+    "description": "Stop Key Code Tracking"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "next"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "done"
+  },
+  "passed": "Passed",
+  "@passed": {
+    "description": "passed"
+  },
+  "failed": "Failed",
+  "@failed": {
+    "description": "failed"
+  },
+  "mobileVersionNotSupportedTitle": "Invalid Version",
+  "@mobileVersionNotSupportedTitle": {
+    "description": "Invalid Version"
+  },
+  "mobileVersionNotSupportedMsg": "The mobile version is not supported by the server, please update your version",
+  "@mobileVersionNotSupportedMsg": {
+    "description": "The mobile version is not supported by the server, please update your version"
+  },
+  "yourMobileVersionMsg": "Your mobile Version",
+  "@yourMobileVersionMsg": {
+    "description": "Your mobile Version"
+  },
+  "supportByServerVersionMsg": "Is not Supported by the Server Versions",
+  "@supportByServerVersionMsg": {
+    "description": "is not supported by the server versions"
+  },
+  "unknownMsg": "Unknown",
+  "@unknownMsg": {
+    "description": "unknown"
+  },
+  "dataUsage": "Data Usage",
+  "@dataUsage": {
+    "description": "Data Usage"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "description"
+  },
+  "reportingPoints": "Reporting Points",
+  "@reportingPoints": {
+    "description": "reporting points"
+  },
+  "yourComment": "Your Comment",
+  "@yourComment": {
+    "description": "your comment"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "error"
+  },
+  "warning": "Warning",
+  "@warning": {
+    "description": "warning"
+  },
+  "caution": "Caution",
+  "@caution": {
+    "description": "caution"
+  },
+  "shiftActivitiesStats": "Shift Activities Stats",
+  "@shiftActivitiesStats": {
+    "description": "shift activities stats"
+  },
+  "activityAlertTitle": "Activity Alert",
+  "@activityAlertTitle": {
+    "description": "Activity Alert"
+  },
+  "activityAlertMsg": "System Detected that your device is still without any activity for the last minute.",
+  "@activityAlertMsg": {
+    "description": "System Detect that your device is still without any activity for the last minute."
+  },
+  "activityAlertShortMsg": "Your Device is Still Without any Activity.",
+  "@activityAlertShortMsg": {
+    "description": "Your device is still without any activity."
+  },
+  "channelSwitchUp": "Channel Switch Up",
+  "@channelSwitchUp": {
+    "description": "Channel Switch Up"
+  },
+  "channelSwitchDown": "Channel Switch Down",
+  "@channelSwitchDown": {
+    "description": "Channel Switch Down"
+  },
+  "pttKeyCode": "PTT KeyCode",
+  "@pttKeyCode": {
+    "description": "PTT KeyCode"
+  },
+  "sosKeyCode": "SOS KeyCode",
+  "@sosKeyCode": {
+    "description": "PTT KeyCode"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "notifications"
+  },
+  "clearAll": "Clear All",
+  "@clearAll": {
+    "description": "clear all"
+  },
+  "nothingHere": "Nothing Here",
+  "@nothingHere": {
+    "description": "nothing here"
+  },
+  "noGpsTitle": "No GPS",
+  "@noGpsTitle": {
+    "description": "NO GPS"
+  },
+  "noGpsMsg": "No GPS Signal",
+  "@noGpsMsg": {
+    "description": "NO GPS Signal"
+  },
+  "collapseGroup": "Collapse Group",
+  "@collapseGroup": {
+    "description": "collapse group"
+  },
+  "see": "See",
+  "@see": {
+    "description": "see"
+  },
+  "more": "More",
+  "@more": {
+    "description": "more"
+  },
+  "now": "Now",
+  "@now": {
+    "description": "now"
+  },
+  "ago": "Ago",
+  "@ago": {
+    "description": "ago"
+  },
+  "noTourTitle": "No Tour",
+  "@noTourTitle": {
+    "description": "No Tour"
+  },
+  "noTourMsg": "No tour was defined for the current position.",
+  "@noTourMsg": {
+    "description": "No tour was defined for the current position."
+  },
+  "filter": "Filter...",
+  "@filter": {
+    "description": "Filter..."
+  },
+  "attachYourBadgeTitle": "Attach Your Badge to Login",
+  "@attachYourBadgeTitle": {
+    "description": "Attach your badge to login"
+  },
+  "loginWithCardCode": "Login With Card",
+  "@loginWithCardCode": {
+    "description": "Login With Card"
+  },
+  "failedEndShiftFromSystem": "Failed Ending Shift",
+  "@failedEndShiftFromSystem": {
+    "description": "Failed Ending Shift"
+  },
+  "failedLogoutFromSystem": "Failed Logout from System",
+  "@failedLogoutFromSystem": {
+    "description": "Failed Logout from system"
+  },
+  "failedReadingCardDetails": "Failed Reading Card Details",
+  "@failedReadingCardDetails": {
+    "description": "Failed Reading Card Details"
+  },
+  "searchingPositionInRange": "Searching Positions In Range",
+  "@searchingPositionInRange": {
+    "description": "SEARCHING POSITIONS IN RANGE"
+  },
+  "getPositionByQRCode": "Position By QR",
+  "@getPositionByQRCode": {
+    "description": "Position By QR"
+  },
+  "positionQRIsFailed": "Position QR Validation Failed",
+  "@positionQRIsFailed": {
+    "description": "Position QR Validation Failed"
+  },
+  "noReportingPoints": "No Reporting Points",
+  "@noReportingPoints": {
+    "description": "No Reporting Points"
+  },
+  "notAvailable": "Not Available",
+  "@notAvailable": {
+    "description": "Not Available"
+  },
+  "restart": "Restart",
+  "@restart": {
+    "description": "Restart"
+  },
+  "positionRotationAssignmentIsNotValid": "Impossible to start a rotation, the time does not match",
+  "@positionRotationAssignmentIsNotValid": {
+    "description": "Impossible to start a rotation, the time does not match"
+  },
+  "scanPositionQRCode": "Scan the Position QR Code",
+  "@scanPositionQRCode": {
+    "description": "Scan the position QR Code"
+  },
+  "cantOpenRP": "Can't Open the Reporting Point",
+  "@cantOpenRP": {
+    "description": "Can't open the Reporting Point"
+  },
+  "cantMatchRP": "Can't Match the Reporting Point",
+  "@cantMatchRP": {
+    "description": "Can't match the Reporting Point"
+  },
+  "youAreOutside": "You Are Outside of its Boundaries",
+  "@youAreOutside": {
+    "description": "you are outside of its boundaries"
+  },
+  "wrongQR": "Wrong QR",
+  "@wrongQR": {
+    "description": "wrong QR"
+  },
+  "gettingYourLocation": "Getting your Location",
+  "@gettingYourLocation": {
+    "description": "Getting your location"
+  },
+  "yourShiftWasInterrupted": "Your shift was interrupted, an alert has been sent to your supervisor",
+  "@yourShiftWasInterrupted": {
+    "description": "Your shift was interrupted, an alert has been sent to your supervisor"
+  },
+  "cantEndShiftOffline": "You can't end shift while you are offline",
+  "@cantEndShiftOffline": {
+    "description": "You can't end shift while you are offline"
+  },
+  "offlineLogoutMsg": "Logout while the device is offline could effect your shift performance rate, would you want to proceed?",
+  "@offlineLogoutMsg": {
+    "description": "Logout while the device is offline could effect your shift performance rate, would you want to proceed?"
+  },
+  "apkURlNotDefined": "APK Url is not Defined",
+  "@apkURlNotDefined": {
+    "description": "APK Url is not defined"
+  },
+  "apkURlStartDownload": "Start Download APK url",
+  "@apkURlStartDownload": {
+    "description": "Start download APK url"
+  },
+  "since": "Since",
+  "@since": {
+    "description": "Since"
+  },
+  "gpsStatus": "GPS Status",
+  "@gpsStatus": {
+    "description": "GPS Status"
+  },
+  "hasSignal": "Has Signal",
+  "@hasSignal": {
+    "description": "Has Signal"
+  },
+  "noSignal": "No Signal",
+  "@noSignal": {
+    "description": "No Signal"
+  },
+  "startedAt": "started at",
+  "@startedAt": {
+    "description": "started at"
+  },
+  "privateCallTo": "Private Call To",
+  "@privateCallTo": {
+    "description": "Private Call To"
+  },
+  "privateCallFrom": "Private Call From",
+  "@privateCallFrom": {
+    "description": "Private Call From"
+  },
+  "privateCall": "Private Call",
+  "@privateCall": {
+    "description": "Private Call"
+  },
+  "failedStartingPrivateCallTo": "Failed Starting Private Call To",
+  "@failedStartingPrivateCallTo": {
+    "description": "Failed Starting Private Call To"
+  },
+  "showNetworkJitter": "Show Network Jitter",
+  "@showNetworkJitter": {
+    "description": "show network jitter"
+  },
+  "privateCallIsOngoing": "Can't start private call, private call is ongoing",
+  "@privateCallIsOngoing": {
+    "description": "Can't start private call, private call is ongoing"
+  },
+  "noWifiOrCellular": "Wifi or Cellular is not Connected",
+  "@noWifiOrCellular": {
+    "description": "Wifi or Cellular is not connected"
+  },
+  "noInternetData": "Internet data is not Available",
+  "@noInternetData": {
+    "description": "Internet data is not available"
+  },
+  "noSystemService": "System Service is not Available",
+  "@noSystemService": {
+    "description": "System Service is not available"
+  },
+  "simNumber": "SIM Number",
+  "@simNumber": {
+    "description": "SIM number"
+  },
+  "itemNumber": "Item Number",
+  "@itemNumber": {
+    "description": "item number"
+  },
+  "systemCannotTrackLocation": "System can not track you current location!",
+  "@systemCannotTrackLocation": {
+    "description": "System can not track you current location!"
+  },
+  "locationNotAvailTitle": "Location Not Available",
+  "@locationNotAvailTitle": {
+    "description": "Location not available"
+  },
+  "deviceName": "Device Name",
+  "@deviceName": {
+    "description": "device name"
+  },
+  "installingNewVersionTitle": "Installing New Version",
+  "@installingNewVersionTitle": {
+    "description": "Installing New Version"
+  },
+  "installingNewVersionMsg": "Click Open The Download folder to clear cache, and run the new APK version",
+  "@installingNewVersionMsg": {
+    "description": "Click Open The Download folder to clear cache, and run the new APK version"
+  },
+  "noPositionsWithTours": "No Positions with Tours",
+  "@noPositionsWithTours": {
+    "description": "no positions with tours"
+  },
+  "noToursForCurrentPosition": "No tours for the Current Position",
+  "@noToursForCurrentPosition": {
+    "description": "no tours for the current position"
+  },
+  "rPointCompleted": "This Reporting Point has Already Been Completed",
+  "@rPointCompleted": {
+    "description": "RPoint completed error message"
+  },
+  "networkJitter": "Network Jitter",
+  "@networkJitter": {
+    "description": "Network Jitter"
+  },
+  "collectingData": "Collecting Data",
+  "@collectingData": {
+    "description": "Collecting Data"
+  },
+  "dataUsage": "Data Usage",
+  "@dataUsage": {
+    "description": "Data Usage"
+  },
+  "darkTheme": "Dark Theme",
+  "@darkTheme": {
+    "description": "dark theme"
+  },
+  "startYourAssignmentAs": "Start Your Assignment As",
+  "@startYourAssignmentAs": {
+    "description": "start your assignment as"
+  },
+  "consumerInfo": "Consumer Info",
+  "@consumerInfo": {
+    "description": "Consumer Info"
+  },
+  "producerInfo": "Producer Info",
+  "@producerInfo": {
+    "description": "Producer Info"
+  },
+  "deviceInfo": "Device Info",
+  "@deviceInfo": {
+    "description": "Device Info"
+  },
+  "routerInfo": "Router Info",
+  "@routerInfo": {
+    "description": "Router Info"
+  },
+  "details": "Details",
+  "@details": {
+    "description": "details"
+  },
+  "showTransportStats": "Show Transport Stats",
+  "@showTransportStats": {
+    "description": "Show Transport Stats"
+  },
+  "events": "Events",
+  "@events": {
+    "description": "events"
+  },
+  "unconfirmed": "Unconfirmed",
+  "@unconfirmed": {
+    "description": "unconfirmed"
+  },
+  "unresolved": "Unresolved",
+  "@unresolved": {
+    "description": "unresolved"
+  },
+  "failedLaunchingAdminVideoCall": "Failed Launching Admin Video Call",
+  "@failedLaunchingAdminVideoCall": {
+    "description": "Failed Launching Admin Video Call"
+  },
+  "selectDeviceOutput": "Select Device Output",
+  "@selectDeviceOutput": {
+    "description": "Select Device Output"
+  },
+  "speakers": "Speakers",
+  "@speakers": {
+    "description": "Speakers"
+  },
+  "headphone": "Headphone",
+  "@headphone": {
+    "description": "Headphone"
+  },
+  "bluetooth": "bluetooth",
+  "@bluetooth": {
+    "description": "bluetooth"
+  },
+  "fire": "fire",
+  "@fire": {
+    "description": "fire"
+  },
+  "crime": "crime",
+  "@crime": {
+    "description": "crime"
+  },
+  "incident": "incident",
+  "@incident": {
+    "description": "incident"
+  },
+  "deviceOffline": "device offline",
+  "@deviceOffline": {
+    "description": "deviceOffline"
+  },
+  "speedLimit": "speed limit",
+  "@speedLimit": {
+    "description": "speed limit"
+  },
+  "type": "type",
+  "@type": {
+    "description": "type"
+  },
+  "time": "time",
+  "@time": {
+    "description": "time"
+  },
+  "reporter": "reporter",
+  "@reporter": {
+    "description": "reporter"
+  },
+  "status": "status",
+  "@status": {
+    "description": "status"
+  },
+  "priority": "priority",
+  "@priority": {
+    "description": "priority"
+  },
+  "low": "low",
+  "@low": {
+    "description": "low"
+  },
+  "high": "high",
+  "@high": {
+    "description": "high"
+  },
+  "medium": "medium",
+  "@medium": {
+    "description": "medium"
+  },
+  "immediate": "immediate",
+  "@immediate": {
+    "description": "immediate"
+  },
+  "statusOpen": "open",
+  "@statusOpen": {
+    "description": "open"
+  },
+  "statusOngoing": "ongoing",
+  "@statusOngoing": {
+    "description": "ongoing"
+  },
+  "noActivity": "No Activity",
+  "@noActivity": {
+    "description": "no activity"
+  },
+  "slideToUnlock": "Slide To Unlock",
+  "@slideToUnlock": {
+    "description": "Slide To Unlock"
+  },
+  "deviceIsLocked": "Device Is Locked",
+  "@deviceIsLocked": {
+    "description": "Vevice Is Locked"
+  },
+  "incomingPTTDuration": "Incoming PTT Duration",
+  "@incomingPTTDuration": {
+    "description": "Incoming PTT Duration"
+  },
+  "outgoingPTTDuration": "Outgoing PTT Duration",
+  "@outgoingPTTDuration": {
+    "description": "Outgoing PTT Duration"
+  },
+  "statistics": "Statistics",
+  "@statistics": {
+    "description": "Statistics"
+  },
+  "deviceStatistics": "Device Statistics",
+  "@deviceStatistics": {
+    "description": "Device Statistics"
+  },
+  "totalIncomingPTTDuration": "Total Incoming PTT Duration",
+  "@totalIncomingPTTDuration": {
+    "description": "Total Incoming PTT Duration"
+  },
+  "totalOutgoingPTTDuration": "Total Outgoing PTT Duration",
+  "@totalOutgoingPTTDuration": {
+    "description": "Total Outgoing PTT Duration"
+  },
+  "offlinePeriod": "Offline Period",
+  "@offlinePeriod": {
+    "description": "Offline Period"
+  },
+  "dataUsageInShift": "Data Usage During Shift",
+  "@dataUsageInShift": {
+    "description": "Data Usage During Shift"
+  },
+  "dataUsageTotal": "Total Data Usage",
+  "@dataUsageTotal": {
+    "description": "Total Data Usage"
+  },
+  "slideToUnlock": "Slide To Unlock",
+  "@slideToUnlock": {
+    "description": "Slide To Unlock"
+  },
+  "deviceIsLocked": "Device Is Locked",
+  "@deviceIsLocked": {
+    "description": "Device Is Locked"
+  },
+  "incomingPTTDuration": "Incoming PTT Duration",
+  "@incomingPTTDuration": {
+    "description": "Incoming PTT Duration"
+  },
+  "outgoingPTTDuration": "Outgoing PTT Duration",
+  "@outgoingPTTDuration": {
+    "description": "Outgoing PTT Duration"
+  },
+  "statistics": "Statistics",
+  "@statistics": {
+    "description": "Statistics"
+  },
+  "deviceStatistics": "Device Statistics",
+  "@deviceStatistics": {
+    "description": "Device Statistics"
+  },
+  "totalIncomingPTTDuration": "Total Incoming PTT Duration",
+  "@totalIncomingPTTDuration": {
+    "description": "Total Incoming PTT Duration"
+  },
+  "totalOutgoingPTTDuration": "Total Outgoing PTT Duration",
+  "@totalOutgoingPTTDuration": {
+    "description": "Total Outgoing PTT Duration"
+  },
+  "offlinePeriod": "Offline Period",
+  "@offlinePeriod": {
+    "description": "Offline Period"
+  },
+  "dataUsageInShift": "Data Usage During Shift",
+  "@dataUsageInShift": {
+    "description": "Data Usage During Shift"
+  },
+  "dataUsageTotal": "Total Data Usage",
+  "@dataUsageTotal": {
+    "description": "Total Data Usage"
+  },
+  "priority": "priority",
+  "@priority": {
+    "description": "Event priority text"
+  },
+  "priorityLow": "low",
+  "@priorityLow": {
+    "description": "Event priority low"
+  },
+  "priorityMedium": "medium",
+  "@priorityMedium": {
+    "description": "Event priority medium"
+  },
+  "priorityHigh": "high",
+  "@priorityHigh": {
+    "description": "Event priority high"
+  },
+  "priorityImmediate": "immediate",
+  "@priorityImmediate": {
+    "description": "Event priority immediate"
+  },
+  "audioRecordingData": "Total Audio Recording",
+  "@audioRecordingData": {
+    "description": "Total Audio Recording"
+  },
+  "audioPttData": "Total Audio PTT",
+  "@audioPttData": {
+    "description": "Total Audio PTT"
+  },
+  "satellites": "Satellites",
+  "@satellites": {
+    "description": "Satellites"
+  },
+  "attention": "Attention",
+  "@attention": {
+    "description": "Attention"
+  },
+  "later": "Later",
+  "@later": {
+    "description": "Later"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes"
+  },
+  "satellite": "Satellite",
+  "@satellite": {
+    "description": "Satellite"
+  },
+  "graph": "graph",
+  "@graph": {
+    "description": "graph"
+  },
+  "startTime": "start time",
+  "@startTime": {
+    "description": "start time"
+  },
+  "endTime": "end time",
+  "@endTime": {
+    "description": "end time"
+  },
+  "endedAt": "ended at:",
+  "@endedAt": {
+    "description": "ended at:"
+  },
+  "noOnlineSatellite": "No Online Satellite",
+  "@noOnlineSatellite": {
+    "description": "No Online Satellite"
+  },
+  "visitedTimes": "visited {times} times",
+  "@visitedTimes": {
+    "placeholders": {
+      "times": {
+        "type": "String"
+      }
+    }
+  },
+  "unconfirmedEventsDialogText": "You have {count} unconfirmed event{suffix}.\nProceed to events?",
+  "@unconfirmedEventsDialogText": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "suffix": {
+        "type": "String"
+      }
+    }
+  },
+  "unresolvedEventsDialogText": "You have {count} unresolved event{suffix}.\nProceed to events?",
+  "@unresolvedEventsDialogText": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "suffix": {
+        "type": "String"
+      }
+    }
+  },
+  "eventsDialogText": "You have {unconfirmedCount} unconfirmed and {unresolvedCount} unresolved events.\nProceed to events?",
+  "@eventsDialogText": {
+    "placeholders": {
+      "unconfirmedCount": {
+        "type": "String"
+      },
+      "unresolvedCount": {
+        "type": "String"
+      }
+    }
+  },
+  "sosAlertHasAlreadyBeenSent": "SOS alert has already been sent",
+  "@sosAlertHasAlreadyBeenSent": {
+    "description": "SOS alert has already been sent"
+  },
+  "justify": "justify",
+  "@justify": {
+    "description": "justify"
+  },
+  "incorrectSystemTime": "Incorrect system time! Please, adjust it before using the app",
+  "@incorrectSystemTime": {
+    "description": "Incorrect system time message"
+  },
+  "cantStartRotationWrongLocation": "Can't start a rotation, the location does not match",
+  "@cantStartRotationWrongLocation": {
+    "description": "Can't start rotation due to wrong location error message"
+  },
+  "cantStartRotationUnlockedPosition": "Can't start a rotation, the position is being edited",
+  "@cantStartRotationUnlockedPosition": {
+    "description": "Can't start rotation due to unlocked position error message"
+  },
+  "cantStartRotationPositionNotFound": "Can't start a rotation, the position not found",
+  "@cantStartRotationPositionNotFound": {
+    "description": "Can't start rotation - the position not found error message"
+  },
+  "noLocationsForMessage": "No locations found for this message",
+  "@noLocationsForMessage": {
+    "description": "No locations found for this message"
+  },
+  "postpone": "postpone",
+  "@postpone": {
+    "description": "postpone"
+  },
+  "possibleOfflineReason": "possible offline reason",
+  "@possibleOfflineReason": {
+    "description": "possible offline reason"
+  },
+  "lowBatteryLevel": "low battery level",
+  "@lowBatteryLevel": {
+    "description": "low battery level"
+  },
+  "reachedNetworkDataLimit": "reached network data limit",
+  "@reachedNetworkDataLimit": {
+    "description": "reached network data limit"
+  },
+  "unexpectedDeviceShutdown": "unexpected device shutdown",
+  "@unexpectedDeviceShutdown": {
+    "description": "unexpected device shutdown"
+  },
+  "noNetwork": "no network",
+  "@noNetwork": {
+    "description": "no network"
+  },
+  "isOffline": "is offline",
+  "@isOffline": {
+    "description": "is offline"
+  },
+  "exceededSpeedLimit": "exceeded the speed limit",
+  "@exceededSpeedLimit": {
+    "description": "exceeded the speed limit"
+  },
+  "noInternet": "no internet",
+  "@noInternet": {
+    "description": "no internet"
+  },
+  "waitingForNetwork": "waiting for the network",
+  "@waitingForNetwork": {
+    "description": "waiting for the network"
+  },
+  "mobileGPSAccessIsDenied": "Access to GPS is Denied",
+  "@mobileGPSAccessIsDenied": {
+    "description": "Access to GPS is Denied"
+  },
+  "mobileGPSAccessIsDeniedByUser": "User denied permissions to access the device's location",
+  "@mobileGPSAccessIsDeniedByUser": {
+    "description": "User denied permissions to access the device's location"
+  },
+  "speedLimitEventDetails": "The speed limit of {speedLimit} km/h was exceeded by {diff} km/h at {timeString}. Accuracy - {speedAccuracy} km/h",
+  "@speedLimitEventDetails": {
+    "placeholders": {
+      "speedLimit": {
+        "type": "String"
+      },
+      "diff": {
+        "type": "String"
+      },
+      "speedAccuracy": {
+        "type": "String"
+      },
+      "timeString": {
+        "type": "String"
+      }
+    }
+  },
+  "selectPassedOrFailed": "Select Passed or Failed",
+  "@selectPassedOrFailed": {
+    "description": "Select Passed or Failed"
+  },
+  "commentCantBeEmpty": "The comment can't be empty",
+  "@commentCantBeEmpty": {
+    "description": "The comment can't be empty"
+  },
+  "attachMedia": "Attach media",
+  "@attachMedia": {
+    "description": "Attach media"
+  },
+  "waitForMediaUpload": "Wait for the media to upload",
+  "@waitForMediaUpload": {
+    "description": "Wait for the media to upload"
+  },
+  "yourRating": "your rating",
+  "@yourRating": {
+    "description": "your rating"
+  }
+}

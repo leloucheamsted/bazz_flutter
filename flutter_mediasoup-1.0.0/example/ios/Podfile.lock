@@ -1,0 +1,45 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_mediasoup (0.0.1):
+    - Flutter
+  - flutter_webrtc (0.1.6):
+    - Flutter
+    - GoogleWebRTC (= 1.1.29229)
+    - libyuv-iOS
+  - GoogleWebRTC (1.1.29229)
+  - libyuv-iOS (1.0.2)
+  - path_provider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_mediasoup (from `.symlinks/plugins/flutter_mediasoup/ios`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleWebRTC
+    - libyuv-iOS
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_mediasoup:
+    :path: ".symlinks/plugins/flutter_mediasoup/ios"
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_mediasoup: 645e56559f2fe0e8e59d1b3b3d2a62560c8b3f71
+  flutter_webrtc: 1f66ed29c7c9c338454da3fa09f8a11d2bf1d9aa
+  GoogleWebRTC: ffbf2dca3bdef0fbeebcff497e0a659bd69761c8
+  libyuv-iOS: 5a154ccc84ec754029886ecb607512731fe30640
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.7.5
